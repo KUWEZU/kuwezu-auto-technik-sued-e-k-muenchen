@@ -11,19 +11,20 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "KUWEZU | Professionelle Kfz-Werkstatt",
-  description: "Ihre Kfz-Werkstatt für alle Leistungen. Qualität und Transparenz.",
+  title: "Auto-Technik Süd e.K. | Kfz-Werkstatt in München",
+  description: "Auto-Technik Süd e.K. in München — Ihr Experte für  und mehr. Jetzt Termin vereinbaren!",
   openGraph: {
-    title: "KUWEZU | Professionelle Kfz-Werkstatt",
-    description: "Ihre zuverlässige Kfz-Werkstatt.",
+    title: "Auto-Technik Süd e.K. | Kfz-Werkstatt in München",
+    description: "Auto-Technik Süd e.K. in München — Ihr Experte für  und mehr. Jetzt Termin vereinbaren!",
     type: "website",
     locale: "de_DE",
   },
   twitter: {
     card: "summary_large_image",
-    title: "KUWEZU | Professionelle Kfz-Werkstatt",
-    description: "Ihre zuverlässige Kfz-Werkstatt.",
+    title: "Auto-Technik Süd e.K. | Kfz-Werkstatt in München",
+    description: "Auto-Technik Süd e.K. in München — Ihr Experte für  und mehr. Jetzt Termin vereinbaren!",
   },
+
 };
 
 export default function RootLayout({
