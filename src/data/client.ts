@@ -1,6 +1,6 @@
 /**
  * client.ts — Automatisch generiert von KUWEZU
- * Erstellt: 2026-07-18T19:16:41.508Z
+ * Erstellt: 2026-07-18T22:25:24.403Z
  * Kundennummer: 219
  *
  * Alle Texte, Bilder und Einstellungen werden hier gepflegt.
@@ -28,7 +28,7 @@ export const client = {
   },
   // ── Hero ───────────────────────────────────────────────────────────────────
   hero: {
-    bild: "https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    bild: "https://r2.kuwezu.de/kunden/219/stock-rno300.jpg",
     overlayOpacity: 0.55, /* fix — nie schwächer, nie überschreibbar */
     ueberschrift: "Kfz-Werkstatt — professionell & zuverlässig",
     ueberschriftHighlight: "professionell & zuverlässig",
@@ -39,7 +39,7 @@ export const client = {
 
   // ── Über uns ───────────────────────────────────────────────────────────────
   ueberUns: {
-    bild: "https://images.pexels.com/photos/1545743/pexels-photo-1545743.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    bild: "https://r2.kuwezu.de/kunden/219/stock-1hze1d8.jpg",
     ueberschrift: "Auto-Technik Süd e.K. — Ihr Partner in München",
     text1: "Als erfahrener Kfz-Werkstatt-Betrieb in München bieten wir unseren Kunden seit Jahren zuverlässigen Service und kompetente Beratung. Mit Fachkompetenz und modernen Methoden lösen wir Ihre Anliegen effizient und zuverlässig.",
     text2: "Wir setzen auf höchste Qualität, transparente Preise und persönlichen Service — damit Sie rundum zufrieden sind.",
